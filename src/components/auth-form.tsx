@@ -112,7 +112,7 @@ export function AuthForm({ mode, onModeChange }: AuthFormProps) {
             </div>
           </div>
           <p className="text-slate-600 italic">
-            "This platform saved us from a sophisticated deepfake attack. The detection was instant and accurate."
+          &quot;This platform saved us from a sophisticated deepfake attack. The detection was instant and accurate.&quot;
           </p>
         </div>
       </div>
